@@ -1,0 +1,31 @@
+main {
+	padding top: 200px;
+}
+
+header {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #eebb44
+}	
+
+.box {
+	border: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.box-image {
+	width: 100%;
+}
+
+.box-text {
+	padding-top: 20px;
+	margin-left: 10px
+}
